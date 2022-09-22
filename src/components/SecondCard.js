@@ -1,10 +1,12 @@
 import "./SecondCard.css";
+import {BsHeadset}from "react-icons/bs";
 
 function SecondCard(props) {
   return (
     <>
       <div className="cardno2">
         <div className="one">
+        <BsHeadset className="calling-icon"/>
           <span className="span2">Total Calls</span>
           <br></br>
           <h1 className="h1num">346</h1>

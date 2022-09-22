@@ -10,7 +10,7 @@
 
 }
 .span1{
-  font-size: 25px;
+  font-size: 22px;
   font-family:Arial, Helvetica, sans-serif;
   color: rgb(98, 97, 97);
 }
@@ -23,6 +23,11 @@
 }
 .links1{
   float: right;
-  padding-top: 20px;
+  padding-top: 25px;
 
+}
+
+.icon{
+  color: rgb(84, 182, 84);
+  margin-right: 15px;
 }

@@ -13,10 +13,16 @@
     height: 70px;
     padding-top: 10px;
     text-align: center;
+    font-size: 30px;
 }
 
 .datebg1{
     text-align: center;
     padding-top: 20px;
     color: rgb(109, 109, 109);
+}
+
+.ico{
+    font-size: 55px;
+    margin-right: 10px;
 }
