@@ -1,0 +1,12 @@
+h2{
+color: rgb(96, 94, 94);
+}
+.Card-holder{
+  background-color:white;
+  width: 320px;height: 200px;
+  box-shadow: rgb(202, 199, 199) 0.2px 2px 2px 0px;
+  margin-left: 30px;
+  text-align: center;
+  padding-top: 25px;
+
+}

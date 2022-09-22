@@ -1,0 +1,19 @@
+
+.datecont{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    gap: 25px;
+    margin-left: 50px;
+}
+
+.datebg{
+    background-color: aliceblue;
+    width: 450px;
+    height: 70px;
+    text-align: center;
+   
+    
+
+    
+}
