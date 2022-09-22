@@ -11,9 +11,12 @@
     background-color: aliceblue;
     width: 450px;
     height: 70px;
+    padding-top: 10px;
     text-align: center;
-   
-    
+}
 
-    
+.datebg1{
+    text-align: center;
+    padding-top: 20px;
+    color: rgb(109, 109, 109);
 }

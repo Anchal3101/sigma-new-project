@@ -3,7 +3,8 @@ import './App.css';
 import Card from './components/Card';
 import Table from './components/Table';
 import DateRang from './components/DateRang';
-import LastCard from './components/LastCard';
+import SecondCard from './components/SecondCard';
+import ThirdCard from './components/ThirdCard';
 
 function App() {
   return (
@@ -14,7 +15,11 @@ function App() {
 
      <div className='container122'>
 
-<Card/><Card/>
+<Card sign='Active calls' num='7' link ='View All Active Calls'/>
+<Card sign='Customers in Queue' num='26' link ='View All Queue'/>
+
+
+
 <div>
   <Table></Table>
 </div>
@@ -23,7 +28,10 @@ function App() {
   <DateRang/>
 </div>
 <div>
-<LastCard/>
+<SecondCard sign='Customers in Queue' num='26' link ='View All Queue'/>
+</div>
+<div>
+  <ThirdCard></ThirdCard>
 </div>
     </div>
   );

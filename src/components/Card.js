@@ -1,9 +1,12 @@
 import  './Card.css';
-function Card(){
+function Card(props){
     return(
         <>
   <div className='Card-holder'>
-<h2>Active Call</h2>
+<span className='span1'>{props.sign}</span>
+<br></br>
+<h1 className='numbers'>{props.num}</h1>
+<a className='links1' href='#'>{props.link}</a>
 
   </div>
         </>

@@ -20,27 +20,27 @@ function Table(){
       </tr>
       <tr>
         <th> Abdulah Mohamad </th>
-        <td>10:03</td>
+        <td>09:03</td>
         <td> <button>Join</button> </td>
       </tr>
       <tr>
         <th> Abdulah Mohamad </th>
-        <td>10:03</td>
+        <td>01:03</td>
         <td> <button>Join</button> </td>
       </tr>
       <tr>
         <th> Abdulah Mohamad </th>
-        <td>10:03</td>
+        <td>01:03</td>
         <td> <button>Join</button> </td>
       </tr>
       <tr>
         <th> Abdulah Mohamad </th>
-        <td>10:03</td>
+        <td>01:03</td>
         <td> <button>Join</button> </td>
       </tr>
       <tr>
         <th> Abdulah Mohamad </th>
-        <td>10:03</td>
+        <td>01:03</td>
         <td> <button>Join</button> </td>
       </tr>
     </tbody>
