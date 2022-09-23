@@ -14,12 +14,16 @@
 .container122 {
   position: relative;
   width: 100%;
-  display: flex;
-  flex-direction: row;
-  
-  margin-top: px;
-}
+  display: grid;
+    grid-template-columns: 1fr 2fr;
+    justify-items: center;
 
+}
+.card1222{
+  
+  display: grid;
+    grid-template-columns: 1fr 1fr;
+}
 .first-let{
   font-weight: bold;
   direction: ltr;

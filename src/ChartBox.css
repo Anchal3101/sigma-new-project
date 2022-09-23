@@ -1,0 +1,14 @@
+
+.Box-holder{
+    background-color: aliceblue;
+    width: 670px;
+    height: 200px;
+    grid-column: 1/3;
+   margin-left: 30px;
+   padding-bottom: 40px;
+}
+.agent-view{
+    font-size: 19px;
+    font-weight: bold;
+    margin-left: 20px;
+}
