@@ -1,5 +1,7 @@
 import  './Card.css';
 import {BsFillTelephoneOutboundFill} from "react-icons/bs";
+import {BrowserRouter ,Link } from 'react-router-dom';
+
 function Card(props){
     return(
         <>
@@ -7,7 +9,8 @@ function Card(props){
 <span className='span1'><span className='icon'><BsFillTelephoneOutboundFill/></span>{props.sign}</span>
 <br></br>
 <h1 className='numbers'>{props.num}</h1>
-<a className='links1' href='#'>{props.link}</a>
+
+<Link className='links1' to={props.path}>{props.link}</Link>
 
   </div>
         </>
